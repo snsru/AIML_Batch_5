@@ -6,3 +6,4 @@
 [https://github.com/snsru/AIML_Batch_5/blob/main/assignment2-3.ipynb]
 [https://github.com/snsru/AIML_Batch_5/blob/main/Assignment_3.ipynb]
 [https://github.com/snsru/AIML_Batch_5/blob/main/Aisgnment_04_.ipynb]
+[https://github.com/snsru/AIML_Batch_5/blob/main/Assignment_05.ipynb]
