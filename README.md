@@ -9,3 +9,4 @@
 [https://github.com/snsru/AIML_Batch_5/blob/main/Assignment_05.ipynb]
 [https://github.com/snsru/AIML_Batch_5/blob/main/Assignment_06.ipynb]
 [https://github.com/snsru/AIML_Batch_5/blob/main/Assignment_07_SVM.ipynb]
+[https://github.com/snsru/AIML_Batch_5/blob/main/Assignment_08_Decision_Tree.ipynb]
