@@ -11,3 +11,5 @@
 [https://github.com/snsru/AIML_Batch_5/blob/main/Assignment_07_SVM.ipynb]
 [https://github.com/snsru/AIML_Batch_5/blob/main/Assignment_08_Decision_Tree.ipynb]
 [https://github.com/snsru/AIML_Batch_5/blob/main/Assignment_09.ipynb]
+[https://github.com/snsru/AIML_Batch_5/blob/main/Assignment_10_KMeans.ipynb]
+
